@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "871684741458",
+    "firebase_url": "https://shakdwipiya-ac9a7.firebaseio.com",
+    "project_id": "shakdwipiya-ac9a7",
+    "storage_bucket": "shakdwipiya-ac9a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871684741458:android:70d295d5b699358a87028b",
+        "android_client_info": {
+          "package_name": "com.durgesh.shakdwipiya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871684741458-lo478u4ldpvk7lbp6smcbu8eti2a2ih3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.durgesh.shakdwipiya",
+            "certificate_hash": "fcf0c59e7fe0aeeffcd7e50a58c7d715d75d562a"
+          }
+        },
+        {
+          "client_id": "871684741458-ei3jgg89rki47rf96ov8ti6jscc94s3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzllc_AUjECZKHApe-SY4XvaUOa9bHod0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871684741458-ei3jgg89rki47rf96ov8ti6jscc94s3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
